@@ -1,3 +1,6 @@
+C언어 모래시계 Report
+
+
 #include <stdio.h>
 
 int main() {
