@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    
     int N; // 정수형태 변수 N을 선언
 
     printf("모래시계의 높이(3 이상의 홀수)를 입력하세요: ");
